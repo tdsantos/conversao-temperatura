@@ -17,5 +17,7 @@ This project was developed with the following technologies:
 
 - ✔️ Docker
 
+- ✔️ Kubernetes
+
 
 Made with ♥ by Thiago dos Santos :wave: [Get in touch!](https://www.linkedin.com/in/tdsantos1981/)
